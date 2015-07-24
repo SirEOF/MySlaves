@@ -5,6 +5,7 @@
 **[Warning] I take no responsibility for the use of this script [Warning]**
 
 Save your hacked things safe in a encrypted file , you don't need to save in browsers bookmarks and lost your access's
+
 Main file and config file is encrypting with a good algorithm
 
 ###Usage
